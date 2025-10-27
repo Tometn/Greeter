@@ -1,0 +1,7 @@
+Python 3.14.0 (tags/v3.14.0:ebf955d, Oct  7 2025, 10:15:03) [MSC v.1944 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> #How can i do this
+>>> def greet(name):
+...     print(f"Hello {name}!")
+... user_name = input("What is your name?")
+... greet(user_name)
